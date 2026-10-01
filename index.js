@@ -4,6 +4,9 @@ const mineflayer = require('mineflayer');
 const { Movements, pathfinder, goals } = require('mineflayer-pathfinder');
 const { GoalBlock } = goals;
 const config = require('./settings.json');
+
+console.log('[System] Target Minecraft version:', config.server.version || 'auto');
+console.log('[System] 26.3 protocol mode enabled.');
 const express = require('express');
 const http = require('http');
 const https = require('https');
