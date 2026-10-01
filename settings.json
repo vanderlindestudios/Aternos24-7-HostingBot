@@ -1,25 +1,25 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "ojemin rengine bak",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "pipistanlordu.aternos.me",
+    "port": 15167,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "YourAuthPassword"
     },
     "anti-afk": {
