@@ -8,7 +8,7 @@
   "server": {
     "ip": "pipistanlordu.aternos.me",
     "port": 15167,
-    "version": "",
+    "version": "26.3",
     "try-creative": true
   },
   "position": {
@@ -82,6 +82,8 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["YourMinecraftUsername"]
+    "tpWhitelist": [
+      "YourMinecraftUsername"
+    ]
   }
 }
